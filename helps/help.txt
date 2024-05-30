@@ -1,0 +1,3 @@
+Para iniciar um projeto com React e Typescript basta dar o comando:
+    'npx create-react-app . --template typescript'
+
